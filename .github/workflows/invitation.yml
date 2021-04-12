@@ -1,6 +1,6 @@
 on:
   issues:
-    types: [labeled]
+    types: Invite me to the organization
 
 jobs:
   automate_invite:
