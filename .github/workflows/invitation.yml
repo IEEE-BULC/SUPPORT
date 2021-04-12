@@ -1,0 +1,2 @@
+- name: invite-on-label
+  uses: vj-abigo/invite-on-label@v1.2
